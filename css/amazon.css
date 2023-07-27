@@ -1,0 +1,358 @@
+body{
+    background-color:gainsboro;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    
+}
+#am{
+    margin-top: 10px;
+}
+    
+    
+
+#hl{
+    color: white;
+    margin-left: 140px;
+    margin-top: -40px;
+}
+#map{
+   color:white;
+   margin-left: 130px;
+   font-size: large;
+}
+#sa{
+    color: whitesmoke;
+    margin-left: 150px;
+    margin-top: -20px;
+}
+#am:hover{
+    border: solid 2px aqua;
+}
+#op{
+    margin-top: 20px;
+    color:black;
+    height: 40px;
+}
+#sch{
+    width: 400px;
+}
+#op:hover{
+    border: solid 2px orange;
+
+}
+#sch:hover{
+    border: solid 2px orange;
+    
+}
+#bt{
+    background-color:orange;
+    height: 40px;
+    
+}
+#sch{
+    height: 40px;
+}
+#fg{
+    margin-top:10px ;
+    margin-left: -140px;
+
+
+}
+#en{
+    margin-top: 20px;
+
+}
+#hs{
+    color: white;
+    margin-top:-30px;
+    margin-left: 20px;
+
+}
+#al{
+    color: white;
+    margin-left: 20px;
+}
+#rs{
+    color: white;
+    margin-top: -60px;
+    margin-left: 150px;
+}
+#od{
+    color: white;
+    margin-left: 150px;
+}
+#ct{
+    margin-left: 250px;
+    margin-top: -90px;
+}
+#cart{
+    margin-left: 290px;
+    margin-top: -50px;
+    color: white;
+}
+.navbar1{
+    background-color:rgb(70, 70, 88);
+    height: 80px;
+    margin-top: -40px;
+}
+#bars{
+    color: white;
+    margin-top: 30px;
+}
+.navbar1 ul{
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    margin-left: -250px;
+    
+    
+    
+}
+.navbar1 li{
+    color: white;
+    padding: 5px;
+    
+}
+#shop{
+    margin-left: 900px;
+    margin-top: -65px;
+}
+.navbar1 li:hover{
+    border: solid 1px deeppink;
+}
+#ct:hover{
+    border: solid 1px aqua;
+}
+.banner{
+    background-image: url(../image/b3.jpg);
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#shop:hover{
+    border: solid 2px aqua;
+}
+.box{
+    background-color: white;
+    height: 460px;
+    width:100%;
+    margin-top: 20px;
+}
+#off{
+    text-align: center;
+}
+#baby{
+    height: 150px;
+    width: 150px;
+}
+#more{
+    color: blue;
+}
+#phar{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
+#the{
+margin-left: 50px;
+margin-top: 30px;
+color: blue;
+}
+.computer{
+    background-color:white;
+    height: 150px;
+    
+}
+#sign{
+    margin-left: 40px;
+}
+#phone{
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.box1{
+    background-color: white;
+    height: 460px;
+    width:100%;
+    margin-top: 20px;
+}
+.box2{
+    background-color:lightpink;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+}
+.name3{
+    background-color: beige;
+    margin-top: 20px;
+    height: 420px;
+    width: 100%;
+}
+#deals{
+    height: 190px;
+    width: 170px;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+#pro{
+    border: none;
+    background-color: red;
+    margin-top: 10px;
+    color: white;
+
+}
+#per{
+    color: magenta;
+}
+.name4{
+    background-color: white;
+    margin-top: 20px;
+    height: 300px;
+    width: 100%;
+}
+#drs{
+    margin-left: 58px;
+}
+.name5{
+    background-color: white;
+    margin-top: 20px;
+    height: 300px;
+    width: 100% ;
+}
+#skin{
+    margin-left: 35px;
+}
+#credit{
+    background-size: cover;
+    background-size: contain;
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+.name6{
+    background-color:rgb(221, 179, 179);
+    margin-top: 20px;
+    height: 420px;
+    width: 100%;
+
+}
+.box3{
+    background-color:rgb(146, 156, 160);
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+}
+#top{
+    color:mediumvioletred;
+}
+.name7{
+    background-color: white;
+    margin-top: 20px;
+    height: 300px;
+    width: 100% ;
+}
+#book{
+    
+    width: 100%;
+    height: 300px;
+    margin-top: 20px;
+    
+}
+.name8{
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+}
+.box4{
+    height: 100px;
+    width: 100%;
+    border: solid 1px ;
+}
+#but{
+    border: none;
+    height: 30px;
+    
+    background-color: orange;
+    width: 200px;
+    margin-left: 650px;
+}
+a:hover{
+    color:chartreuse;
+}
+#rec{
+    margin-left: 650px;
+}
+#new{
+    margin-left: 680px;
+}
+.name9{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(60, 60, 116);
+    margin-top: -25px;
+}
+#to{
+    color: white;
+    margin-left: 680px;
+    
+}
+.name10{
+    background-color: rgb(10, 10, 36);
+    height: 500px;
+    width: 100%;
+}
+#us{
+    color: white;
+    margin-top: 30px;
+}
+#words{
+    color: aliceblue;
+}
+#tick{
+    margin-left: 650px;
+
+}
+#lang{
+    margin-left: 40px;
+}
+.last ul{
+    display: flex;
+    list-style: none;
+}
+.last li{
+    
+    padding: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#tick:hover{
+    border: solid 2px rgb(180, 15, 70);
+}
+li a:hover{
+    color: deeppink;
+}
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+  
+   
+    
